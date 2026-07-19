@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:38BDF8&text=Mohamed%20SaadEddin&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cloud%20Engineer%20•%20DevOps%20•%20Platform%20Engineering%20•%20Site%20Reliability&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:38BDF8&text=Mohamed%20SaadEddin&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cloud%20Engineer%20•%20DevOps%20•%20Platform%20Engineering%20•%20Site%20Reliability(SRE)&descAlignY=60&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+Reliable+Infrastructure...;Automating+Everything+That+Can+Be+Automated.;Building+Cloud-Native+Platforms.;Infrastructure+as+Code+%7C+Kubernetes+%7C+GitOps.;Turning+Ideas+Into+Reliable+Systems." />
 
@@ -733,7 +733,7 @@ It is about:
 
 <br>
 
-**Cloud ☁️ | DevOps ⚙️ | Platform Engineering ☸️**
+**Cloud | DevOps | Platform Engineering | Site Reliability(SRE)**
 
 <br>
 
