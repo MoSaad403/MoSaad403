@@ -89,6 +89,7 @@ $ role
 Cloud Engineer
 DevOps Engineer
 Platform Engineering Enthusiast
+Site Reliability(SRE)
 
 $ current_focus
 
